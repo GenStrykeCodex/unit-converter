@@ -18,20 +18,6 @@ Each category is implemented in a separate module, ensuring reusable and maintai
 
 ---
 
-## Project Structure
-
-unit-converter/
-│
-├─ main.py                     # Main CLI application
-└─ modules/
-    ├─ mensuration.py           # Length, Area, Volume conversions
-    ├─ weight.py                # Weight / Mass conversions
-    ├─ temperature.py           # Temperature conversions
-    ├─ time.py                  # Time conversions
-    └─ __init__.py
-
----
-
 ## Concepts Used
 
 * Modular Programming (separate reusable modules)
